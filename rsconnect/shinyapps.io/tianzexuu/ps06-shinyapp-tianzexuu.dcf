@@ -1,0 +1,14 @@
+name: ps06-shinyapp-tianzexuu
+title: ps06-shinyapp-tianzexuu
+username:
+account: tianzexuu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 8452408
+bundleId: 6904928
+url: https://tianzexuu.shinyapps.io/ps06-shinyapp-tianzexuu/
+when: 1677719632.20471
+lastSyncTime: 1677719632.20472
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: README.md
